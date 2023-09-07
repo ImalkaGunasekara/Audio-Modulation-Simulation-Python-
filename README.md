@@ -1,6 +1,6 @@
-#🎵 Audio Modulation Techniques Simulation 📡
-#Explore the mesmerizing world of audio modulation through practical Python simulations! 🎉 
-#This project focuses on two fascinating techniques: Amplitude Modulation (AM) and Frequency Modulation (FM), offering a hands-on learning experience in signal processing, generation, and visualization.
+🎵 Audio Modulation Techniques Simulation 📡
+Explore the mesmerizing world of audio modulation through practical Python simulations! 🎉 
+This project focuses on two fascinating techniques: Amplitude Modulation (AM) and Frequency Modulation (FM), offering a hands-on learning experience in signal processing, generation, and visualization.
 
 #✨ Features
 AM Modulation: Alter audio signals by varying their amplitude. 🔊
